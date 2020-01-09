@@ -16,3 +16,4 @@ __pycache__/
 # Data input/output directories
 dataset/
 kglib/kgcn/examples/diagnosis/events/
+testfile
